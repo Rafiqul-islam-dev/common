@@ -1,0 +1,29 @@
+/* extra small device */
+@media (max-width: 575px) {
+    .sign-in-from img {
+        margin-left: 12px !important;
+        width: 221px !important;
+    }
+    .sign-in-from h1 {
+        display: none;
+    }
+}
+
+/* small device */
+@media (min-width: 576px) and (max-width: 767px) {
+    .sign-in-from img {
+        margin-left: 12px !important;
+        width: 221px !important;
+    }
+}
+
+/* medium device */
+@media (min-width: 768px) and (max-width: 991px) {
+}
+
+/* medium device */
+@media (min-width: 992px) and (max-width: 1366px) {
+}
+/* medium device */
+@media (min-width: 1367px) and (max-width: 1800px) {
+}
